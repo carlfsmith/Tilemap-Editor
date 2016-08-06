@@ -1,0 +1,1 @@
+{"orientation": "landscape", "include_pil": false, "expansion": false, "icon_name": "tileMapEditor", "include_sqlite": false, "permissions": ["VIBRATE"], "layout": "internal", "name": "tileMapEditor", "package": "com.whatever.tileMapEditor", "source": false, "version": "1.0", "numeric_version": "100"}
